@@ -1,4 +1,4 @@
-package org.websparrow.report.entity;
+package org.uoldiveo.report.entity;
 
 import lombok.Data;
 

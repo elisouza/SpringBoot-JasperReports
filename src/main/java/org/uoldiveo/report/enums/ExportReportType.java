@@ -1,4 +1,4 @@
-package org.websparrow.report.enums;
+package org.uoldiveo.report.enums;
 
 import org.springframework.context.annotation.Description;
 
